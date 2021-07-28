@@ -5,5 +5,7 @@
 ---
 * This repo contains a .dxf file for a 60% plate using the layout above. The acoustical holes and default screw holes overlap. I cut this plate with 1.5mm POM successfully. Enjoy.
 * Plate dimensions: 285.37mmx94.93mm
+* Included extra is a .dxf file for foam to place between the PCB and the plate. 
+* Foam dimensions: 285.47mmx94.96mm - this slight upsizing allows for a little wiggle room.
 ---
 
