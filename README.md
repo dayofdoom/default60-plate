@@ -9,3 +9,7 @@
 * Foam dimensions: 285.47mmx94.96mm - this slight upsizing allows for a little wiggle room.
 ---
 
+![foam](https://user-images.githubusercontent.com/14165909/127380466-ac7091bc-de81-4317-8842-2338e41d99e9.jpeg)
+* Foam 
+![plate](https://user-images.githubusercontent.com/14165909/127380476-4188aca6-0029-4821-89b9-076f92540808.jpeg)
+* POM Plate 
